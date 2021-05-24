@@ -1,0 +1,7 @@
+// Change display brightness
+xrandr --output LVDS-1 --brightness 0.9
+
+// Change displays Gamma
+xgamma -gamma 0.9
+
+Ref: https://itectec.com/ubuntu/ubuntu-how-to-adjust-screen-settings-contrast-color-saturation-etc/
